@@ -1,7 +1,7 @@
 # desafioDioCarrefourGCP
 Resposta ao último desafio do Bootcamp Banco Carrefour Data Engineer
 
-O desafio realizado com o auxilio do profissional Marcelo Marques (Cloud Architect), que inicialmente explicou algumas funções do GCP e auxiliou na ativação da conta de teste da GCP.
+O desafio realizado com o auxílio do profissional Marcelo Marques (Cloud Architect), que inicialmente explicou algumas funções do GCP e auxiliou na ativação da conta de teste da GCP.
 Depois criamos:
 - Um aviso para utilização do valor estimado no menu Faturamento, submenu Orçamentos e alertas;
 - Uma instância da VM, dentro do menu Compute Engine;
